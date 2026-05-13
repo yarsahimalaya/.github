@@ -6,3 +6,4 @@
 ### Recruitment
 
 - [Post Hiring Checklist](./employee-post-hire.md)
+- [Contract Renew](./contract-renew.md)
