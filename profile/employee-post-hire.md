@@ -15,3 +15,5 @@
    - Account Number
    - Emergency Contact Person Name
    - Emergency Contact Person Phone
+
+1. Employee's account in our beancount is created.
