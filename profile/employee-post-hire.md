@@ -4,6 +4,14 @@
    signed `pdf` is uploaded to the signed contract folder in the company repo:
    https://github.com/yarsahimalaya/company
 
-1. Account Details is requested from the employee. Employee's personal details
-   along with the account details is saved `employee` directory inside the company
-   repo (link above).
+1. Personal and bank account details is requested from the employee and saved to
+   `employee` directory inside the company repo (link above). Here are the details to ask:
+   - Legal Full Name
+   - Current Address
+   - Phone Number
+   - Email
+   - Bank
+   - Account Holder Name
+   - Account Number
+   - Emergency Contact Person Name
+   - Emergency Contact Person Phone
